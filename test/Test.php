@@ -1,4 +1,5 @@
 <?php
+
 namespace Guanguansinfo\Test;
 require_once '../vendor/autoload.php';
 use Guanguansinfo\info;
