@@ -27,4 +27,4 @@ class Info{
 
 ## License
 
-[MIT](./LICENSE)
+[MIT](./LICENSE)# composerinfo
