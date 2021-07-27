@@ -20,5 +20,10 @@
       "Guanguansinfo\\": "src/"
     }
   },
+  "autoload-dev": {
+    "psr-4": {
+      "Guanguansinfo\\Test\\": "test/"
+    }
+  },
   "minimum-stability": "dev"
 }
